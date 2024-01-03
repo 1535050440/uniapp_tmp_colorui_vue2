@@ -1,14 +1,9 @@
 ## 【已亲测】可能是最好用的项目模板,快速开发 vue2
 
+## 2024-01-03
 
+作者：插件地址： [https://ext.dcloud.net.cn/publisher?id=117346](https://ext.dcloud.net.cn/publisher?id=117346)
 
-作者：插件地址：
-
-[https://ext.dcloud.net.cn/publisher?id=117346](https://ext.dcloud.net.cn/publisher?id=117346)
-
-#### vue2
-
-2024-01-03
 
 
 ### 【已封装的方法】
@@ -25,7 +20,7 @@
 
 
 
-### 【已集成插件】
+### 【已集成插件 90%项目会用到】
 
 
 
