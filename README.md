@@ -39,6 +39,29 @@
 
 ````
 
+路由文件地址： /common/_route.js
+
+
+发起http请求
+//	提交
+			async onClickSave(type = 1) {
+				var that = this
+				
+				var params = {
+					
+				}
+				
+				var resData = await that._Api(that._Router.saveDeposit,params,'POST')
+				
+				if (resData.data) {
+					
+				}
+
+
+
+````
+````
+
 npm install moment
 
 ````
