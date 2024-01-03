@@ -2,7 +2,7 @@
 
 ## 2024-01-03
 
-作者：插件地址： [https://ext.dcloud.net.cn/publisher?id=117346](https://ext.dcloud.net.cn/publisher?id=117346)
+作者：全部插件地址： [https://ext.dcloud.net.cn/publisher?id=117346](https://ext.dcloud.net.cn/publisher?id=117346)
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-### 【已集成插件 90%项目会用到】
+### 【已集成插件 90%项目会用到，所以就直接集成进去了】
 
 
 
@@ -36,7 +36,7 @@
 
 
 
-
+#### 作者：全部插件地址： [https://ext.dcloud.net.cn/publisher?id=117346](https://ext.dcloud.net.cn/publisher?id=117346)
 
 
 #### 发起http请求
