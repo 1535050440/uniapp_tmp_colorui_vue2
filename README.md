@@ -33,7 +33,7 @@
 | --------   |:----:  |:----:  |
 | 1.colorui css模版(vue2)    | colorui |[https://ext.dcloud.net.cn/plugin?id=239](https://ext.dcloud.net.cn/plugin?id=239)  |   
 | 2.mp-html富文本     | mp-html | [https://ext.dcloud.net.cn/plugin?id=805](https://ext.dcloud.net.cn/plugin?id=805) | 
-| 3.uview css模板（v2.0.36）   | uview | [https://uviewui.com/components/calendar.html](https://uviewui.com/components/calendar.html) | 
+| 3.uview css模板（v2.0.36）按需引入   | uview | [https://uviewui.com/components/calendar.html](https://uviewui.com/components/calendar.html) | 
 | 4.z-paging    | z-paging |    [https://z-paging.zxlee.cn/](https://z-paging.zxlee.cn/)     |
 | 5.d-tan滑动的弹框组件（超流畅）    | d-tan |    [https://ext.dcloud.net.cn/plugin?id=11663](https://ext.dcloud.net.cn/plugin?id=11663)     |
 | 6.全局加载中的特效    | d-loading |    [https://ext.dcloud.net.cn/plugin?id=8533](https://ext.dcloud.net.cn/plugin?id=8533)     |
