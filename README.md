@@ -4,7 +4,7 @@
 
 作者：插件地址：
 
-[](https://ext.dcloud.net.cn/publisher?id=117346)
+[https://ext.dcloud.net.cn/publisher?id=117346](https://ext.dcloud.net.cn/publisher?id=117346)
 
 #### vue2
 
