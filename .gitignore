@@ -3,4 +3,4 @@
 .git
 .mini-ide
 unpackage/
-config.js
+/config.js
