@@ -9,57 +9,14 @@
 				"navigationBarTextStyle": "white",
 				 "navigationStyle": "custom",
 				 "transparentTitle":"always"
-				// "navigationBarTitleText": "",
-				// "navigationBarTextStyle": "white",
-				// "navigationBarBackgroundColor": "#1a3362",
-				// "navigationStyle": "custom",
-				// "enablePullDownRefresh": false
-				// //   "transparentTitle":"always",
-				//   "titlePenetrate": "YES"
 			}
 		},{
 			"path": "pages/login/login",
 			"style": {
 				"navigationBarTitleText": "",
-				// "enablePullDownRefresh": true,
 				"navigationBarTextStyle": "white",
 				"navigationBarBackgroundColor": "#1a3362",
 				"navigationStyle": "custom"
-				// //   "transparentTitle":"always",
-				//   "titlePenetrate": "YES"
-			}
-		},{
-			"path": "pages/dev/dev",
-			"style": {
-				"navigationBarTitleText": "",
-				// "enablePullDownRefresh": true,
-				"navigationBarTextStyle": "white",
-				"navigationBarBackgroundColor": "#1a3362",
-				"navigationStyle": "custom"
-				// //   "transparentTitle":"always",
-				//   "titlePenetrate": "YES"
-			}
-		},{
-			"path": "pages/dev/demo",
-			"style": {
-				"navigationBarTitleText": "",
-				// "enablePullDownRefresh": true,
-				"navigationBarTextStyle": "white",
-				"navigationBarBackgroundColor": "#1a3362",
-				"navigationStyle": "custom"
-				// //   "transparentTitle":"always",
-				//   "titlePenetrate": "YES"
-			}
-		},{
-			"path": "pages/dev/test1",
-			"style": {
-				"navigationBarTitleText": "",
-				// "enablePullDownRefresh": true,
-				"navigationBarTextStyle": "white",
-				"navigationBarBackgroundColor": "#1a3362",
-				"navigationStyle": "custom"
-				// //   "transparentTitle":"always",
-				//   "titlePenetrate": "YES"
 			}
 		}
 	],

@@ -62,11 +62,7 @@ async onClickSave(type = 1) {
 
 
 ````
-````
 
-npm install moment
-
-````
 
 ## License
 

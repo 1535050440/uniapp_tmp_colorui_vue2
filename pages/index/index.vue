@@ -1,23 +1,7 @@
 <template>
 	<view>
 		<k-loading></k-loading>
-		<!--  -->
-		<!-- <view id="dGoodsHomeId" style="width: 100%;" v-if="myTab=='tabactivity'" >
-			<view style="width: 100%;height: 400rpx;">
-				<image src="/static/icon_img/xigua.jpg" style="width: 100%;height: 400rpx;"></image>
-			</view>
-			
-			<view style="width: 100%;background-color: #fff;display: flex;align-items: center;justify-content: center;padding: 20rpx 0;">
-				<view style="width: 92%;height: 70rpx;background-color: #f2f2f2;display: flex;align-items: center;border-radius: 35rpx;">
-					<image src="../../uni_modules/d-swiper-type/components/d-swiper-type/pages/static/icon_img/search.png" 
-					style="width: 35rpx;height: 35rpx;"></image>
-					<input style="width: 400rpx;height: 80rpx;margin-left: 10rpx;" placeholder="请输入搜索的内容" />
-					<image src="../../uni_modules/d-swiper-type/components/d-swiper-type/pages/static/icon_img/search.png" 
-					style="width: 35rpx;height: 35rpx;"></image>
-				</view>
-			</view>
-		</view> -->
-		
+	
 		<view v-if="true">
 			<tabhome v-if="myTab=='tabhome'" :page_num_id="page_num_id"></tabhome>
 			<tabactivity v-if="myTab=='tabactivity'" ></tabactivity>
