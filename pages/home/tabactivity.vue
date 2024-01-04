@@ -2,7 +2,6 @@
 	<view class="vueBox ">
 		
 		<view style="width: 100%;">
-			<d-goods-home></d-goods-home>
 		</view>
 		
 		

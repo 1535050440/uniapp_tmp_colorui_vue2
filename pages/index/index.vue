@@ -2,7 +2,7 @@
 	<view>
 		<k-loading></k-loading>
 		<!--  -->
-		<view id="dGoodsHomeId" style="width: 100%;" v-if="myTab=='tabactivity'" >
+		<!-- <view id="dGoodsHomeId" style="width: 100%;" v-if="myTab=='tabactivity'" >
 			<view style="width: 100%;height: 400rpx;">
 				<image src="/static/icon_img/xigua.jpg" style="width: 100%;height: 400rpx;"></image>
 			</view>
@@ -16,7 +16,7 @@
 					style="width: 35rpx;height: 35rpx;"></image>
 				</view>
 			</view>
-		</view>
+		</view> -->
 		
 		<view v-if="true">
 			<tabhome v-if="myTab=='tabhome'" :page_num_id="page_num_id"></tabhome>

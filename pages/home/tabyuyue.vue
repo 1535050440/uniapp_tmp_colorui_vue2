@@ -12,7 +12,6 @@
 		<view></view>
 		
 		<k-public></k-public>
-		<d-empty top="100"></d-empty>
 	</view>
 </template>
 
